@@ -1,6 +1,6 @@
 ---
 title: "| ECON 491 - Applied Machine Learning in Economics\n| Final Project\n"
-author: "Akash Sannasi (sannasi2)"
+author: "Akash Sannasi
 date: "12/04/2022"
 output:
   html_document: default
